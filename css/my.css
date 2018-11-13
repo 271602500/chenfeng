@@ -9,6 +9,7 @@ header{
 	margin: 0 auto 1.8rem;
 }
 header .list{
+	display: block;
 	width: 0.44rem;
 	height: 0.44rem;
 	border-radius: 0.22rem;
